@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Jontha Henry! 👋
+# Olá, eu sou o Jonatha Henry! 👋
 
 ## 🚀 Sobre mim
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas - Senac**.
